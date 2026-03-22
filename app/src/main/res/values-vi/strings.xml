@@ -15,4 +15,72 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name" translatable="false">OmniJaws</string>
+    <string name="provider_title">Nhà cung cấp dịch vụ thời tiết</string>
+    <string name="units_title">Đơn vị</string>
+    <string name="provider_openweathermap" translatable="false">OpenWeatherMap</string>
+    <string name="provider_metnorway" translatable="false">MET Norway</string>
+    <string name="weather_progress_title">Đang xác định vị trí</string>
+    <string name="weather_select_location">Chọn vị trí</string>
+    <string name="custom_location_title">Vị trí tùy chỉnh</string>
+    <string name="weather_custom_location_dialog_title">Nhập vị trí</string>
+    <string name="weather_custom_location_title">Vị trí</string>
+    <string name="weather_custom_location_missing">Đặt vị trí tùy chỉnh</string>
+    <string name="weather_retrieve_location_dialog_title">Không thể lấy vị trí!</string>
+    <string name="weather_retrieve_location_dialog_message">Định vị qua mạng đã bị tắt.\n\nĐặt vị trí tùy chỉnh hoặc bật định vị mạng</string>
+    <string name="weather_retrieve_location_dialog_enable_button">Bật</string>
+    <string name="settings_title">Cài đặt</string>
+    <string name="auto_update_title">Tự động cập nhật</string>
+    <string name="unit_metric">Hệ mét (\u00b0C)</string>
+    <string name="unit_imperial">Hệ Anh (\u00b0F)</string>
+    <string name="update">Cập nhật</string>
+    <string name="enable_title">Bật</string>
+    <string name="update_interval_title">Tần suất cập nhật</string>
+    <string name="interval_1_hour">1 giờ</string>
+    <string name="interval_2_hour">2 giờ</string>
+    <string name="interval_4_hour">4 giờ</string>
+    <string name="interval_6_hour">6 giờ</string>
+    <string name="interval_12_hour">12 giờ</string>
+    <string name="weather_tile_title">Thời tiết</string>
+    <string name="weather_icon_pack_title">Gói biểu tượng thời tiết</string>
+    <string name="weather_icon_pack_playstore">Tìm gói biểu tượng</string>
+    <string name="service_disabled">Đã tắt</string>
+    <string name="service_error">Lỗi</string>
+    <string name="last_update_time">Lần cập nhật cuối</string>
+    <string name="omnijaws_service_waiting">Đang chờ \u2026</string>
+    <string name="omnijaws_service_unkown">Không có dữ liệu thời tiết</string>
+    <string name="omnijaws_service_error">Lỗi tải dữ liệu thời tiết</string>
+    <string name="omnijaws_service_init">Đang chờ\u2026</string>
+    <string name="omnijaws_service_progress">Đang cập nhật\u2026</string>
+    <string name="omnijaws_service_disabled">Dịch vụ đã tắt</string>
+    <string name="weather_widget">Thời tiết</string>
+    <string name="omnijaws_current_text">Hiện tại</string>
+    <string name="show_background_title">Bóng nền</string>
+    <string name="weather_config_title">Cài đặt dịch vụ</string>
+    <string name="weather_config_summary"></string>
+    <string name="omnijaws_service_error_marker" translatable="false">*</string>
+    <string name="with_forecast_title">Kèm dự báo 4 ngày và chi tiết</string>
+    <string name="owm_key">Khóa OWM tùy chỉnh</string>
+    <string name="omnijaws_city_unkown">Không xác định</string>
+    <string name="activity_title">Thời tiết</string>
+    <string name="omnijaws_service_error_long">Lỗi tải dữ liệu thời tiết</string>
+    <string name="omnijaws_detail_header">Thời tiết</string>
+    <string name="omnijaws_label_default">Thời tiết</string>
+    <string name="omnijaws_service_last_update">Cập nhật lần cuối:</string>
+    <string name="omnijaws_service_error_location">Không có vị trí khả dụng</string>
+    <string name="omnijaws_service_error_network">Không tìm thấy mạng</string>
+    <string name="weather_widget_desc">"Thời tiết hiện tại và dự báo 4 ngày"</string>
+    <string name="theme_system">Theo hệ thống</string>
+    <string name="theme_dark">Tối</string>
+    <string name="theme_light">Sáng</string>
+    <string name="color_theme_title">Giao diện</string>
+    <string name="bg_transparency_title">Độ trong suốt</string>
+    <string name="trans_semi">Bán trong suốt</string>
+    <string name="trans_full">Trong suốt</string>
+    <string name="trans_solid">Đặc</string>
+    <string name="location_browse_activity_title">Chọn vị trí</string>
+    <string name="location_query_hint">Tìm kiếm vị trí</string>
+
+</resources>
